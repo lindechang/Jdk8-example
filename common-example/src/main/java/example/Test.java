@@ -1,9 +1,7 @@
-package example.clone;
+package example;
 
 /**
  * Created by lindec on 2016/4/12.
  */
-public class Clone {
-
-
+public class Test {
 }

@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basis-example" />
+        <module name="common-example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basis-example" target="1.5" />
+      <module name="common-example" target="1.5" />
       <module name="Jdk8-example" target="1.5" />
     </bytecodeTargetLevel>
   </component>
