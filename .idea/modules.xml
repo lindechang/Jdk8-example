@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jdk8-example.iml" filepath="$PROJECT_DIR$/Jdk8-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basis-example/basis-example.iml" filepath="$PROJECT_DIR$/basis-example/basis-example.iml" />
     </modules>
   </component>
 </project>

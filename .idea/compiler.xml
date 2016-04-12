@@ -22,10 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Jdk8-example" />
+        <module name="basis-example" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="basis-example" target="1.5" />
       <module name="Jdk8-example" target="1.5" />
     </bytecodeTargetLevel>
   </component>
